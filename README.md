@@ -10,3 +10,10 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-informational)
 
 ### No Matter if I Have An Idea Or An Exercise I Will "To The Best Of My Knowledge" Write The Apps So Everyone Can Use Them 🤪
+
+## Other Coding Interests
+
+![App](https://img.shields.io/badge/GUI-WPF-blue)
+![Web](https://img.shields.io/badge/Web-ASP-purple)
+![C++](https://img.shields.io/badge/Language-C%2B%2B-red)
+![Game](https://img.shields.io/badge/Game-Unreal%20Engine-important)
