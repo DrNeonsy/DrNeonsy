@@ -1,8 +1,8 @@
 # About Me
 
-### I'm Learning How To Code My Projects Are A Minimum Collection Of What I've Learned So Far
+### I'm Learning How To Code And My Projects Are A Minimum Collection Of What I've Learned So Far
 
-## My Focus
+## My Current Focus
 
 ![Programming Lang](https://img.shields.io/badge/Language-C%23-brightgreen)
 ![Type](https://img.shields.io/badge/Type-Console-8d32a8)
@@ -11,7 +11,7 @@
 
 ### No Matter if I Have An Idea Or An Exercise I Will "To The Best Of My Knowledge" Write The Apps So Everyone Can Use Them 🤪
 
-## Other Coding Interests
+## Future Coding Interests (TODO)
 
 ![App](https://img.shields.io/badge/GUI-WPF-blue)
 ![Web](https://img.shields.io/badge/Web-ASP-purple)
