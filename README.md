@@ -9,7 +9,7 @@
 ![Environment](https://img.shields.io/badge/Environment-.Net-%23034efc)
 ![Platform](https://img.shields.io/badge/Platform-Windows-informational)
 
-### No Matter if I Have An Idea Or An Exercise I Will "To The Best Of My Knowledge" Write The Apps So Everyone Can Use Them 🤪
+### No Matter If I Have An Idea Or An Exercise I Will "To The Best Of My Knowledge" Write The Apps So Everyone Can Use Them 🤪
 
 ## Future Coding Interests (TODO)
 
