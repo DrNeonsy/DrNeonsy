@@ -14,7 +14,7 @@
 
 ## Future Coding Interests (TODO)
 
-![App](https://img.shields.io/badge/GUI-WPF-blue)
+![App](https://img.shields.io/badge/GUI-WPF-green)
 ![Web](https://img.shields.io/badge/Web-ASP-purple)
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-red)
 ![Game](https://img.shields.io/badge/Game-Unreal%20Engine-important)
