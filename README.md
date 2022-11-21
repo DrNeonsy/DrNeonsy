@@ -1,6 +1,7 @@
 # About Me
 
 ### I'm Learning How To Code And My Projects Are A Minimum Collection Of What I've Learned So Far
+### [My Projects](https://github.com/DrNeonsy/DrNeonsy/blob/master/Projects.md)
 
 ## My Current Focus
 
